@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-family: comic;
+    color: whitesmoke;
+    background-color: thistle;
+}  
+element.style {
+    margin-top: 40px;
+}
+center {
+    display: block;
+    text-align: center;
+}
+img{
+    width: 230px;
+    height: 300px;
+    border-radius: 20px;
+}
+h3{
+    font-size: 300px;
+}
+
+  
